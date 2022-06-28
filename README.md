@@ -19,13 +19,6 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!-- Github Stats, coding streak, Most used languages analytics-->
-## GitHub Stats 
- <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imrank03&show_icons=true&icon_color=000000&hide_border=true&title_color=008080&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrank03&hide=html,&hide_border=true&title_color=008080&text_color=555"
-</p>
 
 <!-- About Me Section -->
 
